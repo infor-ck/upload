@@ -1,0 +1,17 @@
+* {
+	font-family: "微軟正黑體";
+}
+
+body {
+	padding: 1rem;
+}
+
+.action-bar {
+	display: inline-flex;
+	align-items: center;
+	text-align: center;
+}
+
+td, th {
+	padding: .5em;
+}
